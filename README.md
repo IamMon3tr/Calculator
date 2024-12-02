@@ -69,10 +69,6 @@ Jika Anda ingin berkontribusi:
 4. Push ke branch Anda: `git push origin fitur-anda`  
 5. Buat pull request  
 
-## Lisensi 📄  
-
-Proyek ini menggunakan lisensi MIT. Lihat file [LICENSE](./LICENSE) untuk detail lebih lanjut.  
-
 ## Kontak 📬  
 
 - **Nama Anda**  
